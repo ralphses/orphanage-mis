@@ -1,0 +1,12 @@
+Open the CD, flash drive containing the file ”Orphanage”
+Copy the file to Local Drive i.e. LocalDisk:C/
+Past 
+Close
+
+
+Double Click on Orphanage Folder Containing the Files
+Double Click on dist
+and Run the Orphanage "FOrmat: Executable Jar File"
+press any Key to Contintue
+Click on Login and Don't Touch the Password Key is Auto
+and Continues the Processing
